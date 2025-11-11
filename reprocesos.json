@@ -1,0 +1,2004 @@
+{
+  "reprocesos": [
+    {
+      "codigo": "409715",
+      "descripcion": "N. PONEDORAS PRODUCCION x 482 KG",
+      "cantidad": "319 kg",
+      "fecha_fabricacion": "16/06/2025",
+      "lote": "414415",
+      "castigo": "20%",
+      "aprovechable": "100%",
+      "critico": false
+    },
+    {
+      "codigo": "408528",
+      "descripcion": "N. EQUINOS MANTENIMIENTO x 187 KG",
+      "cantidad": "93 kg",
+      "fecha_fabricacion": "14/08/2025",
+      "lote": "497750",
+      "castigo": "10%",
+      "aprovechable": "99%",
+      "critico": false
+    },
+    {
+      "codigo": "405914",
+      "descripcion": "N. PISCICULTURA ENGORDE x 309 KG",
+      "cantidad": "342 kg",
+      "fecha_fabricacion": "14/11/2025",
+      "lote": "410555",
+      "castigo": "0%",
+      "aprovechable": "99%",
+      "critico": false
+    },
+    {
+      "codigo": "409955",
+      "descripcion": "N. POLLOS INICIO x 274 KG",
+      "cantidad": "318 kg",
+      "fecha_fabricacion": "08/04/2025",
+      "lote": "476480",
+      "castigo": "30%",
+      "aprovechable": "99%",
+      "critico": false
+    },
+    {
+      "codigo": "405351",
+      "descripcion": "N. GANADO MANTENIMIENTO x 357 KG",
+      "cantidad": "63 kg",
+      "fecha_fabricacion": "28/11/2025",
+      "lote": "476126",
+      "castigo": "0%",
+      "aprovechable": "99%",
+      "critico": false
+    },
+    {
+      "codigo": "402357",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 220 KG",
+      "cantidad": "335 kg",
+      "fecha_fabricacion": "24/07/2025",
+      "lote": "444866",
+      "castigo": "15%",
+      "aprovechable": "99%",
+      "critico": false
+    },
+    {
+      "codigo": "405857",
+      "descripcion": "N. POLLOS INICIO x 453 KG",
+      "cantidad": "282 kg",
+      "fecha_fabricacion": "18/03/2025",
+      "lote": "479207",
+      "castigo": "35%",
+      "aprovechable": "99%",
+      "critico": false
+    },
+    {
+      "codigo": "406014",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 327 KG",
+      "cantidad": "263 kg",
+      "fecha_fabricacion": "21/09/2025",
+      "lote": "448887",
+      "castigo": "5%",
+      "aprovechable": "98%",
+      "critico": true
+    },
+    {
+      "codigo": "405450",
+      "descripcion": "N. REPRODUCTORAS INICIO x 115 KG",
+      "cantidad": "308 kg",
+      "fecha_fabricacion": "17/01/2025",
+      "lote": "475117",
+      "castigo": "45%",
+      "aprovechable": "98%",
+      "critico": false
+    },
+    {
+      "codigo": "408741",
+      "descripcion": "N. PISCICULTURA ENGORDE x 389 KG",
+      "cantidad": "236 kg",
+      "fecha_fabricacion": "11/04/2025",
+      "lote": "433297",
+      "castigo": "30%",
+      "aprovechable": "98%",
+      "critico": false
+    },
+    {
+      "codigo": "405244",
+      "descripcion": "N. PONEDORAS INICIO x 486 KG",
+      "cantidad": "302 kg",
+      "fecha_fabricacion": "12/08/2025",
+      "lote": "492041",
+      "castigo": "10%",
+      "aprovechable": "98%",
+      "critico": false
+    },
+    {
+      "codigo": "409064",
+      "descripcion": "N. CERDOS GESTACION x 406 KG",
+      "cantidad": "89 kg",
+      "fecha_fabricacion": "19/05/2025",
+      "lote": "453390",
+      "castigo": "25%",
+      "aprovechable": "98%",
+      "critico": true
+    },
+    {
+      "codigo": "404150",
+      "descripcion": "N. GANADO MANTENIMIENTO x 461 KG",
+      "cantidad": "212 kg",
+      "fecha_fabricacion": "12/09/2025",
+      "lote": "442469",
+      "castigo": "5%",
+      "aprovechable": "97%",
+      "critico": false
+    },
+    {
+      "codigo": "403574",
+      "descripcion": "N. MASCOTAS SENIOR x 364 KG",
+      "cantidad": "470 kg",
+      "fecha_fabricacion": "13/02/2025",
+      "lote": "481869",
+      "castigo": "40%",
+      "aprovechable": "97%",
+      "critico": false
+    },
+    {
+      "codigo": "409109",
+      "descripcion": "N. EQUINOS TRABAJO x 105 KG",
+      "cantidad": "152 kg",
+      "fecha_fabricacion": "23/01/2025",
+      "lote": "432314",
+      "castigo": "45%",
+      "aprovechable": "97%",
+      "critico": false
+    },
+    {
+      "codigo": "407692",
+      "descripcion": "N. PISCICULTURA REPRODUCCION x 18 KG",
+      "cantidad": "399 kg",
+      "fecha_fabricacion": "02/09/2025",
+      "lote": "474741",
+      "castigo": "5%",
+      "aprovechable": "96%",
+      "critico": false
+    },
+    {
+      "codigo": "409247",
+      "descripcion": "N. EQUINOS TRABAJO x 98 KG",
+      "cantidad": "102 kg",
+      "fecha_fabricacion": "06/11/2025",
+      "lote": "496875",
+      "castigo": "0%",
+      "aprovechable": "96%",
+      "critico": false
+    },
+    {
+      "codigo": "409145",
+      "descripcion": "N. POLLOS ENGORDE x 356 KG",
+      "cantidad": "478 kg",
+      "fecha_fabricacion": "18/01/2025",
+      "lote": "485480",
+      "castigo": "45%",
+      "aprovechable": "96%",
+      "critico": false
+    },
+    {
+      "codigo": "403089",
+      "descripcion": "N. EQUINOS MANTENIMIENTO x 292 KG",
+      "cantidad": "493 kg",
+      "fecha_fabricacion": "28/04/2025",
+      "lote": "412915",
+      "castigo": "30%",
+      "aprovechable": "96%",
+      "critico": false
+    },
+    {
+      "codigo": "405651",
+      "descripcion": "N. REPRODUCTORAS INICIO x 62 KG",
+      "cantidad": "210 kg",
+      "fecha_fabricacion": "08/02/2025",
+      "lote": "445088",
+      "castigo": "40%",
+      "aprovechable": "96%",
+      "critico": false
+    },
+    {
+      "codigo": "408208",
+      "descripcion": "N. POLLOS INICIO x 382 KG",
+      "cantidad": "358 kg",
+      "fecha_fabricacion": "24/09/2025",
+      "lote": "444127",
+      "castigo": "5%",
+      "aprovechable": "96%",
+      "critico": false
+    },
+    {
+      "codigo": "402800",
+      "descripcion": "N. PISCICULTURA ALEVINES x 13 KG",
+      "cantidad": "254 kg",
+      "fecha_fabricacion": "21/03/2025",
+      "lote": "498234",
+      "castigo": "35%",
+      "aprovechable": "95%",
+      "critico": false
+    },
+    {
+      "codigo": "407608",
+      "descripcion": "N. MASCOTAS CACHORRO x 469 KG",
+      "cantidad": "390 kg",
+      "fecha_fabricacion": "28/03/2025",
+      "lote": "442607",
+      "castigo": "35%",
+      "aprovechable": "95%",
+      "critico": false
+    },
+    {
+      "codigo": "405614",
+      "descripcion": "N. CERDOS CRECIMIENTO x 116 KG",
+      "cantidad": "402 kg",
+      "fecha_fabricacion": "27/10/2025",
+      "lote": "453948",
+      "castigo": "0%",
+      "aprovechable": "95%",
+      "critico": false
+    },
+    {
+      "codigo": "404823",
+      "descripcion": "N. REPRODUCTORAS INICIO x 169 KG",
+      "cantidad": "392 kg",
+      "fecha_fabricacion": "13/06/2025",
+      "lote": "494817",
+      "castigo": "20%",
+      "aprovechable": "95%",
+      "critico": true
+    },
+    {
+      "codigo": "409710",
+      "descripcion": "N. PONEDORAS PRODUCCION x 110 KG",
+      "cantidad": "123 kg",
+      "fecha_fabricacion": "04/11/2025",
+      "lote": "453275",
+      "castigo": "0%",
+      "aprovechable": "95%",
+      "critico": true
+    },
+    {
+      "codigo": "407670",
+      "descripcion": "N. POLLOS ENGORDE x 241 KG",
+      "cantidad": "32 kg",
+      "fecha_fabricacion": "26/02/2025",
+      "lote": "459939",
+      "castigo": "40%",
+      "aprovechable": "95%",
+      "critico": false
+    },
+    {
+      "codigo": "408699",
+      "descripcion": "N. REPRODUCTORAS INICIO x 213 KG",
+      "cantidad": "284 kg",
+      "fecha_fabricacion": "10/07/2025",
+      "lote": "450256",
+      "castigo": "15%",
+      "aprovechable": "95%",
+      "critico": false
+    },
+    {
+      "codigo": "409051",
+      "descripcion": "N. EQUINOS TRABAJO x 439 KG",
+      "cantidad": "192 kg",
+      "fecha_fabricacion": "12/05/2025",
+      "lote": "496450",
+      "castigo": "25%",
+      "aprovechable": "95%",
+      "critico": false
+    },
+    {
+      "codigo": "407258",
+      "descripcion": "N. PISCICULTURA ENGORDE x 159 KG",
+      "cantidad": "464 kg",
+      "fecha_fabricacion": "19/09/2025",
+      "lote": "491401",
+      "castigo": "5%",
+      "aprovechable": "94%",
+      "critico": false
+    },
+    {
+      "codigo": "405941",
+      "descripcion": "N. PONEDORAS INICIO x 325 KG",
+      "cantidad": "287 kg",
+      "fecha_fabricacion": "07/04/2025",
+      "lote": "495697",
+      "castigo": "30%",
+      "aprovechable": "94%",
+      "critico": false
+    },
+    {
+      "codigo": "405190",
+      "descripcion": "N. PONEDORAS INICIO x 205 KG",
+      "cantidad": "158 kg",
+      "fecha_fabricacion": "24/09/2025",
+      "lote": "472561",
+      "castigo": "5%",
+      "aprovechable": "94%",
+      "critico": false
+    },
+    {
+      "codigo": "409523",
+      "descripcion": "N. GANADO MANTENIMIENTO x 272 KG",
+      "cantidad": "149 kg",
+      "fecha_fabricacion": "18/01/2025",
+      "lote": "486155",
+      "castigo": "45%",
+      "aprovechable": "94%",
+      "critico": false
+    },
+    {
+      "codigo": "407679",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 362 KG",
+      "cantidad": "85 kg",
+      "fecha_fabricacion": "11/02/2025",
+      "lote": "411162",
+      "castigo": "40%",
+      "aprovechable": "94%",
+      "critico": false
+    },
+    {
+      "codigo": "406214",
+      "descripcion": "N. REPRODUCTORAS INICIO x 97 KG",
+      "cantidad": "295 kg",
+      "fecha_fabricacion": "12/01/2025",
+      "lote": "454107",
+      "castigo": "45%",
+      "aprovechable": "93%",
+      "critico": false
+    },
+    {
+      "codigo": "409309",
+      "descripcion": "N. EQUINOS TRABAJO x 165 KG",
+      "cantidad": "29 kg",
+      "fecha_fabricacion": "08/03/2025",
+      "lote": "451686",
+      "castigo": "35%",
+      "aprovechable": "93%",
+      "critico": false
+    },
+    {
+      "codigo": "405482",
+      "descripcion": "N. PONEDORAS INICIO x 280 KG",
+      "cantidad": "472 kg",
+      "fecha_fabricacion": "26/01/2025",
+      "lote": "478258",
+      "castigo": "45%",
+      "aprovechable": "93%",
+      "critico": false
+    },
+    {
+      "codigo": "408250",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 252 KG",
+      "cantidad": "223 kg",
+      "fecha_fabricacion": "15/07/2025",
+      "lote": "438539",
+      "castigo": "15%",
+      "aprovechable": "93%",
+      "critico": false
+    },
+    {
+      "codigo": "402268",
+      "descripcion": "N. PONEDORAS PRODUCCION x 93 KG",
+      "cantidad": "233 kg",
+      "fecha_fabricacion": "14/03/2025",
+      "lote": "461973",
+      "castigo": "35%",
+      "aprovechable": "93%",
+      "critico": false
+    },
+    {
+      "codigo": "404749",
+      "descripcion": "N. PONEDORAS POSTURA x 46 KG",
+      "cantidad": "242 kg",
+      "fecha_fabricacion": "23/09/2025",
+      "lote": "459833",
+      "castigo": "5%",
+      "aprovechable": "93%",
+      "critico": false
+    },
+    {
+      "codigo": "403008",
+      "descripcion": "N. GANADO PRODUCCION x 245 KG",
+      "cantidad": "458 kg",
+      "fecha_fabricacion": "21/08/2025",
+      "lote": "446303",
+      "castigo": "10%",
+      "aprovechable": "92%",
+      "critico": false
+    },
+    {
+      "codigo": "408063",
+      "descripcion": "N. PONEDORAS PRODUCCION x 261 KG",
+      "cantidad": "197 kg",
+      "fecha_fabricacion": "06/04/2025",
+      "lote": "419953",
+      "castigo": "30%",
+      "aprovechable": "92%",
+      "critico": false
+    },
+    {
+      "codigo": "403474",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 499 KG",
+      "cantidad": "421 kg",
+      "fecha_fabricacion": "18/07/2025",
+      "lote": "415907",
+      "castigo": "15%",
+      "aprovechable": "91%",
+      "critico": false
+    },
+    {
+      "codigo": "409551",
+      "descripcion": "N. POLLOS LEVANTE x 142 KG",
+      "cantidad": "394 kg",
+      "fecha_fabricacion": "03/09/2025",
+      "lote": "488319",
+      "castigo": "5%",
+      "aprovechable": "91%",
+      "critico": false
+    },
+    {
+      "codigo": "401328",
+      "descripcion": "N. PISCICULTURA ENGORDE x 46 KG",
+      "cantidad": "211 kg",
+      "fecha_fabricacion": "28/08/2025",
+      "lote": "484475",
+      "castigo": "10%",
+      "aprovechable": "91%",
+      "critico": true
+    },
+    {
+      "codigo": "403632",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 437 KG",
+      "cantidad": "448 kg",
+      "fecha_fabricacion": "26/09/2025",
+      "lote": "470602",
+      "castigo": "5%",
+      "aprovechable": "91%",
+      "critico": false
+    },
+    {
+      "codigo": "402045",
+      "descripcion": "N. CERDOS LACTANCIA x 371 KG",
+      "cantidad": "80 kg",
+      "fecha_fabricacion": "13/06/2025",
+      "lote": "473584",
+      "castigo": "20%",
+      "aprovechable": "91%",
+      "critico": false
+    },
+    {
+      "codigo": "403403",
+      "descripcion": "N. REPRODUCTORAS INICIO x 301 KG",
+      "cantidad": "166 kg",
+      "fecha_fabricacion": "24/03/2025",
+      "lote": "433231",
+      "castigo": "35%",
+      "aprovechable": "90%",
+      "critico": false
+    },
+    {
+      "codigo": "403627",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 344 KG",
+      "cantidad": "177 kg",
+      "fecha_fabricacion": "12/08/2025",
+      "lote": "456743",
+      "castigo": "10%",
+      "aprovechable": "90%",
+      "critico": false
+    },
+    {
+      "codigo": "407448",
+      "descripcion": "N. REPRODUCTORAS CRECIMIENTO x 393 KG",
+      "cantidad": "262 kg",
+      "fecha_fabricacion": "03/09/2025",
+      "lote": "482506",
+      "castigo": "5%",
+      "aprovechable": "90%",
+      "critico": false
+    },
+    {
+      "codigo": "404117",
+      "descripcion": "N. POLLOS ENGORDE x 388 KG",
+      "cantidad": "141 kg",
+      "fecha_fabricacion": "22/12/2025",
+      "lote": "473286",
+      "castigo": "0%",
+      "aprovechable": "90%",
+      "critico": false
+    },
+    {
+      "codigo": "409305",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 263 KG",
+      "cantidad": "228 kg",
+      "fecha_fabricacion": "17/05/2025",
+      "lote": "488168",
+      "castigo": "25%",
+      "aprovechable": "89%",
+      "critico": true
+    },
+    {
+      "codigo": "402314",
+      "descripcion": "N. REPRODUCTORAS INICIO x 85 KG",
+      "cantidad": "92 kg",
+      "fecha_fabricacion": "22/04/2025",
+      "lote": "432565",
+      "castigo": "30%",
+      "aprovechable": "89%",
+      "critico": false
+    },
+    {
+      "codigo": "405632",
+      "descripcion": "N. POLLOS INICIO x 31 KG",
+      "cantidad": "116 kg",
+      "fecha_fabricacion": "23/09/2025",
+      "lote": "485404",
+      "castigo": "5%",
+      "aprovechable": "89%",
+      "critico": false
+    },
+    {
+      "codigo": "404471",
+      "descripcion": "N. GANADO CRECIMIENTO x 131 KG",
+      "cantidad": "400 kg",
+      "fecha_fabricacion": "26/11/2025",
+      "lote": "475960",
+      "castigo": "0%",
+      "aprovechable": "88%",
+      "critico": true
+    },
+    {
+      "codigo": "402128",
+      "descripcion": "N. REPRODUCTORAS CRECIMIENTO x 55 KG",
+      "cantidad": "258 kg",
+      "fecha_fabricacion": "21/09/2025",
+      "lote": "427356",
+      "castigo": "5%",
+      "aprovechable": "88%",
+      "critico": false
+    },
+    {
+      "codigo": "403722",
+      "descripcion": "N. EQUINOS CRECIMIENTO x 347 KG",
+      "cantidad": "474 kg",
+      "fecha_fabricacion": "03/04/2025",
+      "lote": "453994",
+      "castigo": "30%",
+      "aprovechable": "88%",
+      "critico": false
+    },
+    {
+      "codigo": "408214",
+      "descripcion": "N. EQUINOS TRABAJO x 140 KG",
+      "cantidad": "490 kg",
+      "fecha_fabricacion": "10/06/2025",
+      "lote": "482154",
+      "castigo": "20%",
+      "aprovechable": "88%",
+      "critico": false
+    },
+    {
+      "codigo": "401473",
+      "descripcion": "N. POLLOS LEVANTE x 26 KG",
+      "cantidad": "426 kg",
+      "fecha_fabricacion": "07/08/2025",
+      "lote": "417226",
+      "castigo": "10%",
+      "aprovechable": "87%",
+      "critico": false
+    },
+    {
+      "codigo": "409314",
+      "descripcion": "N. CERDOS MACHOS x 398 KG",
+      "cantidad": "84 kg",
+      "fecha_fabricacion": "19/05/2025",
+      "lote": "468550",
+      "castigo": "25%",
+      "aprovechable": "87%",
+      "critico": false
+    },
+    {
+      "codigo": "408149",
+      "descripcion": "N. GANADO PRODUCCION x 152 KG",
+      "cantidad": "487 kg",
+      "fecha_fabricacion": "22/12/2025",
+      "lote": "484891",
+      "castigo": "0%",
+      "aprovechable": "87%",
+      "critico": false
+    },
+    {
+      "codigo": "407316",
+      "descripcion": "N. PISCICULTURA ALEVINES x 410 KG",
+      "cantidad": "296 kg",
+      "fecha_fabricacion": "16/07/2025",
+      "lote": "469610",
+      "castigo": "15%",
+      "aprovechable": "86%",
+      "critico": false
+    },
+    {
+      "codigo": "403864",
+      "descripcion": "N. POLLOS ENGORDE x 429 KG",
+      "cantidad": "351 kg",
+      "fecha_fabricacion": "05/05/2025",
+      "lote": "411992",
+      "castigo": "25%",
+      "aprovechable": "86%",
+      "critico": false
+    },
+    {
+      "codigo": "404377",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 473 KG",
+      "cantidad": "350 kg",
+      "fecha_fabricacion": "23/01/2025",
+      "lote": "498343",
+      "castigo": "45%",
+      "aprovechable": "86%",
+      "critico": false
+    },
+    {
+      "codigo": "409176",
+      "descripcion": "N. PISCICULTURA REPRODUCCION x 415 KG",
+      "cantidad": "487 kg",
+      "fecha_fabricacion": "24/02/2025",
+      "lote": "460749",
+      "castigo": "40%",
+      "aprovechable": "86%",
+      "critico": false
+    },
+    {
+      "codigo": "402663",
+      "descripcion": "N. POLLOS INICIO x 268 KG",
+      "cantidad": "200 kg",
+      "fecha_fabricacion": "24/08/2025",
+      "lote": "495294",
+      "castigo": "10%",
+      "aprovechable": "85%",
+      "critico": false
+    },
+    {
+      "codigo": "408221",
+      "descripcion": "N. PONEDORAS INICIO x 300 KG",
+      "cantidad": "107 kg",
+      "fecha_fabricacion": "24/12/2025",
+      "lote": "490514",
+      "castigo": "0%",
+      "aprovechable": "85%",
+      "critico": false
+    },
+    {
+      "codigo": "402267",
+      "descripcion": "N. CERDOS CRECIMIENTO x 95 KG",
+      "cantidad": "146 kg",
+      "fecha_fabricacion": "24/06/2025",
+      "lote": "448234",
+      "castigo": "20%",
+      "aprovechable": "85%",
+      "critico": true
+    },
+    {
+      "codigo": "403498",
+      "descripcion": "N. MASCOTAS ADULTO x 383 KG",
+      "cantidad": "436 kg",
+      "fecha_fabricacion": "21/11/2025",
+      "lote": "499140",
+      "castigo": "0%",
+      "aprovechable": "85%",
+      "critico": false
+    },
+    {
+      "codigo": "406051",
+      "descripcion": "N. PISCICULTURA REPRODUCCION x 370 KG",
+      "cantidad": "236 kg",
+      "fecha_fabricacion": "05/08/2025",
+      "lote": "447828",
+      "castigo": "10%",
+      "aprovechable": "84%",
+      "critico": false
+    },
+    {
+      "codigo": "408613",
+      "descripcion": "N. PISCICULTURA ENGORDE x 76 KG",
+      "cantidad": "324 kg",
+      "fecha_fabricacion": "03/09/2025",
+      "lote": "422554",
+      "castigo": "5%",
+      "aprovechable": "83%",
+      "critico": false
+    },
+    {
+      "codigo": "408985",
+      "descripcion": "N. MASCOTAS SENIOR x 229 KG",
+      "cantidad": "29 kg",
+      "fecha_fabricacion": "01/06/2025",
+      "lote": "472905",
+      "castigo": "20%",
+      "aprovechable": "83%",
+      "critico": false
+    },
+    {
+      "codigo": "408020",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 124 KG",
+      "cantidad": "393 kg",
+      "fecha_fabricacion": "07/11/2025",
+      "lote": "478048",
+      "castigo": "0%",
+      "aprovechable": "83%",
+      "critico": false
+    },
+    {
+      "codigo": "403927",
+      "descripcion": "N. GANADO PRODUCCION x 367 KG",
+      "cantidad": "79 kg",
+      "fecha_fabricacion": "16/05/2025",
+      "lote": "458243",
+      "castigo": "25%",
+      "aprovechable": "83%",
+      "critico": false
+    },
+    {
+      "codigo": "405183",
+      "descripcion": "N. PISCICULTURA ENGORDE x 414 KG",
+      "cantidad": "311 kg",
+      "fecha_fabricacion": "25/04/2025",
+      "lote": "499524",
+      "castigo": "30%",
+      "aprovechable": "82%",
+      "critico": false
+    },
+    {
+      "codigo": "406894",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 21 KG",
+      "cantidad": "304 kg",
+      "fecha_fabricacion": "26/05/2025",
+      "lote": "498075",
+      "castigo": "25%",
+      "aprovechable": "82%",
+      "critico": false
+    },
+    {
+      "codigo": "401946",
+      "descripcion": "N. POLLOS ENGORDE x 243 KG",
+      "cantidad": "156 kg",
+      "fecha_fabricacion": "14/07/2025",
+      "lote": "459199",
+      "castigo": "15%",
+      "aprovechable": "82%",
+      "critico": false
+    },
+    {
+      "codigo": "402202",
+      "descripcion": "N. CERDOS LACTANCIA x 213 KG",
+      "cantidad": "68 kg",
+      "fecha_fabricacion": "03/12/2025",
+      "lote": "477760",
+      "castigo": "0%",
+      "aprovechable": "82%",
+      "critico": false
+    },
+    {
+      "codigo": "406362",
+      "descripcion": "N. GANADO CRECIMIENTO x 218 KG",
+      "cantidad": "382 kg",
+      "fecha_fabricacion": "02/12/2025",
+      "lote": "498324",
+      "castigo": "0%",
+      "aprovechable": "82%",
+      "critico": false
+    },
+    {
+      "codigo": "402732",
+      "descripcion": "N. GANADO PRODUCCION x 155 KG",
+      "cantidad": "242 kg",
+      "fecha_fabricacion": "03/08/2025",
+      "lote": "439525",
+      "castigo": "10%",
+      "aprovechable": "81%",
+      "critico": false
+    },
+    {
+      "codigo": "409460",
+      "descripcion": "N. GANADO CRECIMIENTO x 17 KG",
+      "cantidad": "64 kg",
+      "fecha_fabricacion": "06/10/2025",
+      "lote": "423280",
+      "castigo": "0%",
+      "aprovechable": "81%",
+      "critico": false
+    },
+    {
+      "codigo": "401407",
+      "descripcion": "N. EQUINOS TRABAJO x 319 KG",
+      "cantidad": "49 kg",
+      "fecha_fabricacion": "25/06/2025",
+      "lote": "475269",
+      "castigo": "20%",
+      "aprovechable": "81%",
+      "critico": false
+    },
+    {
+      "codigo": "409768",
+      "descripcion": "N. REPRODUCTORAS INICIO x 402 KG",
+      "cantidad": "486 kg",
+      "fecha_fabricacion": "22/03/2025",
+      "lote": "470638",
+      "castigo": "35%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "408074",
+      "descripcion": "N. MASCOTAS ADULTO x 418 KG",
+      "cantidad": "218 kg",
+      "fecha_fabricacion": "12/07/2025",
+      "lote": "438691",
+      "castigo": "15%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "406433",
+      "descripcion": "N. POLLOS LEVANTE x 174 KG",
+      "cantidad": "310 kg",
+      "fecha_fabricacion": "23/04/2025",
+      "lote": "469367",
+      "castigo": "30%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "401153",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 89 KG",
+      "cantidad": "111 kg",
+      "fecha_fabricacion": "20/11/2025",
+      "lote": "424806",
+      "castigo": "0%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "408581",
+      "descripcion": "N. PISCICULTURA ENGORDE x 137 KG",
+      "cantidad": "48 kg",
+      "fecha_fabricacion": "15/10/2025",
+      "lote": "449153",
+      "castigo": "0%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "409772",
+      "descripcion": "N. REPRODUCTORAS CRECIMIENTO x 337 KG",
+      "cantidad": "233 kg",
+      "fecha_fabricacion": "09/08/2025",
+      "lote": "474325",
+      "castigo": "10%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "405254",
+      "descripcion": "N. POLLOS LEVANTE x 377 KG",
+      "cantidad": "21 kg",
+      "fecha_fabricacion": "13/09/2025",
+      "lote": "473781",
+      "castigo": "5%",
+      "aprovechable": "80%",
+      "critico": false
+    },
+    {
+      "codigo": "409786",
+      "descripcion": "N. MASCOTAS SENIOR x 442 KG",
+      "cantidad": "446 kg",
+      "fecha_fabricacion": "04/10/2025",
+      "lote": "412569",
+      "castigo": "0%",
+      "aprovechable": "79%",
+      "critico": true
+    },
+    {
+      "codigo": "407437",
+      "descripcion": "N. GANADO PRODUCCION x 493 KG",
+      "cantidad": "198 kg",
+      "fecha_fabricacion": "04/05/2025",
+      "lote": "499921",
+      "castigo": "25%",
+      "aprovechable": "79%",
+      "critico": true
+    },
+    {
+      "codigo": "403789",
+      "descripcion": "N. EQUINOS TRABAJO x 51 KG",
+      "cantidad": "70 kg",
+      "fecha_fabricacion": "03/11/2025",
+      "lote": "485684",
+      "castigo": "0%",
+      "aprovechable": "79%",
+      "critico": false
+    },
+    {
+      "codigo": "409162",
+      "descripcion": "N. PONEDORAS INICIO x 464 KG",
+      "cantidad": "212 kg",
+      "fecha_fabricacion": "13/06/2025",
+      "lote": "472181",
+      "castigo": "20%",
+      "aprovechable": "78%",
+      "critico": false
+    },
+    {
+      "codigo": "408878",
+      "descripcion": "N. PONEDORAS POSTURA x 13 KG",
+      "cantidad": "425 kg",
+      "fecha_fabricacion": "28/12/2025",
+      "lote": "477448",
+      "castigo": "0%",
+      "aprovechable": "78%",
+      "critico": false
+    },
+    {
+      "codigo": "404481",
+      "descripcion": "N. MASCOTAS CACHORRO x 373 KG",
+      "cantidad": "418 kg",
+      "fecha_fabricacion": "02/01/2025",
+      "lote": "439286",
+      "castigo": "45%",
+      "aprovechable": "78%",
+      "critico": false
+    },
+    {
+      "codigo": "407098",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 424 KG",
+      "cantidad": "483 kg",
+      "fecha_fabricacion": "14/02/2025",
+      "lote": "448625",
+      "castigo": "40%",
+      "aprovechable": "77%",
+      "critico": false
+    },
+    {
+      "codigo": "404492",
+      "descripcion": "N. PISCICULTURA REPRODUCCION x 320 KG",
+      "cantidad": "113 kg",
+      "fecha_fabricacion": "04/08/2025",
+      "lote": "415053",
+      "castigo": "10%",
+      "aprovechable": "77%",
+      "critico": false
+    },
+    {
+      "codigo": "402227",
+      "descripcion": "N. GANADO PRODUCCION x 498 KG",
+      "cantidad": "80 kg",
+      "fecha_fabricacion": "15/05/2025",
+      "lote": "448163",
+      "castigo": "25%",
+      "aprovechable": "77%",
+      "critico": false
+    },
+    {
+      "codigo": "402782",
+      "descripcion": "N. CERDOS CRECIMIENTO x 168 KG",
+      "cantidad": "394 kg",
+      "fecha_fabricacion": "03/06/2025",
+      "lote": "482415",
+      "castigo": "20%",
+      "aprovechable": "77%",
+      "critico": false
+    },
+    {
+      "codigo": "403968",
+      "descripcion": "N. GANADO CRECIMIENTO x 491 KG",
+      "cantidad": "343 kg",
+      "fecha_fabricacion": "15/08/2025",
+      "lote": "498908",
+      "castigo": "10%",
+      "aprovechable": "76%",
+      "critico": true
+    },
+    {
+      "codigo": "408714",
+      "descripcion": "N. EQUINOS TRABAJO x 27 KG",
+      "cantidad": "175 kg",
+      "fecha_fabricacion": "11/03/2025",
+      "lote": "491189",
+      "castigo": "35%",
+      "aprovechable": "76%",
+      "critico": false
+    },
+    {
+      "codigo": "403172",
+      "descripcion": "N. EQUINOS TRABAJO x 350 KG",
+      "cantidad": "167 kg",
+      "fecha_fabricacion": "23/01/2025",
+      "lote": "499519",
+      "castigo": "45%",
+      "aprovechable": "76%",
+      "critico": false
+    },
+    {
+      "codigo": "403226",
+      "descripcion": "N. GANADO PRODUCCION x 31 KG",
+      "cantidad": "242 kg",
+      "fecha_fabricacion": "03/07/2025",
+      "lote": "449174",
+      "castigo": "15%",
+      "aprovechable": "75%",
+      "critico": false
+    },
+    {
+      "codigo": "407203",
+      "descripcion": "N. EQUINOS TRABAJO x 316 KG",
+      "cantidad": "352 kg",
+      "fecha_fabricacion": "01/12/2025",
+      "lote": "416014",
+      "castigo": "0%",
+      "aprovechable": "75%",
+      "critico": false
+    },
+    {
+      "codigo": "406750",
+      "descripcion": "N. CERDOS LACTANCIA x 298 KG",
+      "cantidad": "399 kg",
+      "fecha_fabricacion": "23/09/2025",
+      "lote": "481957",
+      "castigo": "5%",
+      "aprovechable": "75%",
+      "critico": false
+    },
+    {
+      "codigo": "409383",
+      "descripcion": "N. PONEDORAS INICIO x 170 KG",
+      "cantidad": "219 kg",
+      "fecha_fabricacion": "02/07/2025",
+      "lote": "440557",
+      "castigo": "15%",
+      "aprovechable": "74%",
+      "critico": false
+    },
+    {
+      "codigo": "404237",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 407 KG",
+      "cantidad": "244 kg",
+      "fecha_fabricacion": "19/05/2025",
+      "lote": "462167",
+      "castigo": "25%",
+      "aprovechable": "74%",
+      "critico": false
+    },
+    {
+      "codigo": "404311",
+      "descripcion": "N. PONEDORAS PRODUCCION x 220 KG",
+      "cantidad": "491 kg",
+      "fecha_fabricacion": "23/12/2025",
+      "lote": "460262",
+      "castigo": "0%",
+      "aprovechable": "74%",
+      "critico": false
+    },
+    {
+      "codigo": "402602",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 245 KG",
+      "cantidad": "288 kg",
+      "fecha_fabricacion": "05/12/2025",
+      "lote": "491578",
+      "castigo": "0%",
+      "aprovechable": "74%",
+      "critico": false
+    },
+    {
+      "codigo": "401739",
+      "descripcion": "N. PISCICULTURA ENGORDE x 46 KG",
+      "cantidad": "210 kg",
+      "fecha_fabricacion": "24/04/2025",
+      "lote": "449061",
+      "castigo": "30%",
+      "aprovechable": "74%",
+      "critico": false
+    },
+    {
+      "codigo": "407763",
+      "descripcion": "N. POLLOS LEVANTE x 322 KG",
+      "cantidad": "54 kg",
+      "fecha_fabricacion": "11/07/2025",
+      "lote": "473758",
+      "castigo": "15%",
+      "aprovechable": "74%",
+      "critico": false
+    },
+    {
+      "codigo": "406807",
+      "descripcion": "N. POLLOS ENGORDE x 178 KG",
+      "cantidad": "38 kg",
+      "fecha_fabricacion": "13/02/2025",
+      "lote": "464930",
+      "castigo": "40%",
+      "aprovechable": "73%",
+      "critico": false
+    },
+    {
+      "codigo": "408348",
+      "descripcion": "N. GANADO PRODUCCION x 173 KG",
+      "cantidad": "209 kg",
+      "fecha_fabricacion": "13/04/2025",
+      "lote": "444259",
+      "castigo": "30%",
+      "aprovechable": "73%",
+      "critico": true
+    },
+    {
+      "codigo": "404033",
+      "descripcion": "N. GANADO MANTENIMIENTO x 244 KG",
+      "cantidad": "211 kg",
+      "fecha_fabricacion": "15/06/2025",
+      "lote": "427477",
+      "castigo": "20%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "407806",
+      "descripcion": "N. POLLOS INICIO x 190 KG",
+      "cantidad": "416 kg",
+      "fecha_fabricacion": "12/04/2025",
+      "lote": "451997",
+      "castigo": "30%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "404355",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 475 KG",
+      "cantidad": "436 kg",
+      "fecha_fabricacion": "16/05/2025",
+      "lote": "454319",
+      "castigo": "25%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "403860",
+      "descripcion": "N. REPRODUCTORAS INICIO x 492 KG",
+      "cantidad": "207 kg",
+      "fecha_fabricacion": "24/10/2025",
+      "lote": "460031",
+      "castigo": "0%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "402368",
+      "descripcion": "N. PISCICULTURA ENGORDE x 61 KG",
+      "cantidad": "97 kg",
+      "fecha_fabricacion": "05/10/2025",
+      "lote": "494248",
+      "castigo": "0%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "409645",
+      "descripcion": "N. PISCICULTURA ENGORDE x 122 KG",
+      "cantidad": "476 kg",
+      "fecha_fabricacion": "26/11/2025",
+      "lote": "481451",
+      "castigo": "0%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "401312",
+      "descripcion": "N. POLLOS ENGORDE x 10 KG",
+      "cantidad": "51 kg",
+      "fecha_fabricacion": "07/11/2025",
+      "lote": "418345",
+      "castigo": "0%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "406772",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 378 KG",
+      "cantidad": "224 kg",
+      "fecha_fabricacion": "17/09/2025",
+      "lote": "477396",
+      "castigo": "5%",
+      "aprovechable": "72%",
+      "critico": false
+    },
+    {
+      "codigo": "403552",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 123 KG",
+      "cantidad": "18 kg",
+      "fecha_fabricacion": "15/01/2025",
+      "lote": "453242",
+      "castigo": "45%",
+      "aprovechable": "71%",
+      "critico": false
+    },
+    {
+      "codigo": "404387",
+      "descripcion": "N. EQUINOS TRABAJO x 252 KG",
+      "cantidad": "440 kg",
+      "fecha_fabricacion": "28/06/2025",
+      "lote": "430653",
+      "castigo": "20%",
+      "aprovechable": "71%",
+      "critico": false
+    },
+    {
+      "codigo": "407756",
+      "descripcion": "N. PISCICULTURA ALEVINES x 435 KG",
+      "cantidad": "246 kg",
+      "fecha_fabricacion": "20/01/2025",
+      "lote": "495123",
+      "castigo": "45%",
+      "aprovechable": "71%",
+      "critico": false
+    },
+    {
+      "codigo": "408301",
+      "descripcion": "N. PONEDORAS POSTURA x 413 KG",
+      "cantidad": "358 kg",
+      "fecha_fabricacion": "28/08/2025",
+      "lote": "439149",
+      "castigo": "10%",
+      "aprovechable": "70%",
+      "critico": true
+    },
+    {
+      "codigo": "409922",
+      "descripcion": "N. POLLOS LEVANTE x 456 KG",
+      "cantidad": "197 kg",
+      "fecha_fabricacion": "16/09/2025",
+      "lote": "481256",
+      "castigo": "5%",
+      "aprovechable": "70%",
+      "critico": false
+    },
+    {
+      "codigo": "402764",
+      "descripcion": "N. MASCOTAS SENIOR x 383 KG",
+      "cantidad": "365 kg",
+      "fecha_fabricacion": "28/07/2025",
+      "lote": "465545",
+      "castigo": "15%",
+      "aprovechable": "70%",
+      "critico": false
+    },
+    {
+      "codigo": "401767",
+      "descripcion": "N. MASCOTAS SENIOR x 449 KG",
+      "cantidad": "238 kg",
+      "fecha_fabricacion": "16/10/2025",
+      "lote": "410013",
+      "castigo": "0%",
+      "aprovechable": "70%",
+      "critico": false
+    },
+    {
+      "codigo": "405390",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 244 KG",
+      "cantidad": "92 kg",
+      "fecha_fabricacion": "26/01/2025",
+      "lote": "444759",
+      "castigo": "45%",
+      "aprovechable": "70%",
+      "critico": false
+    },
+    {
+      "codigo": "407735",
+      "descripcion": "N. GANADO CRECIMIENTO x 324 KG",
+      "cantidad": "129 kg",
+      "fecha_fabricacion": "12/09/2025",
+      "lote": "422606",
+      "castigo": "5%",
+      "aprovechable": "70%",
+      "critico": false
+    },
+    {
+      "codigo": "405925",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 68 KG",
+      "cantidad": "62 kg",
+      "fecha_fabricacion": "08/02/2025",
+      "lote": "470031",
+      "castigo": "40%",
+      "aprovechable": "69%",
+      "critico": false
+    },
+    {
+      "codigo": "404548",
+      "descripcion": "N. PISCICULTURA ENGORDE x 355 KG",
+      "cantidad": "25 kg",
+      "fecha_fabricacion": "25/12/2025",
+      "lote": "471137",
+      "castigo": "0%",
+      "aprovechable": "69%",
+      "critico": false
+    },
+    {
+      "codigo": "408418",
+      "descripcion": "N. MASCOTAS CACHORRO x 404 KG",
+      "cantidad": "330 kg",
+      "fecha_fabricacion": "03/07/2025",
+      "lote": "473216",
+      "castigo": "15%",
+      "aprovechable": "69%",
+      "critico": false
+    },
+    {
+      "codigo": "403804",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 168 KG",
+      "cantidad": "147 kg",
+      "fecha_fabricacion": "18/06/2025",
+      "lote": "426343",
+      "castigo": "20%",
+      "aprovechable": "68%",
+      "critico": false
+    },
+    {
+      "codigo": "402913",
+      "descripcion": "N. PONEDORAS INICIO x 469 KG",
+      "cantidad": "36 kg",
+      "fecha_fabricacion": "19/10/2025",
+      "lote": "454248",
+      "castigo": "0%",
+      "aprovechable": "68%",
+      "critico": false
+    },
+    {
+      "codigo": "408283",
+      "descripcion": "N. CERDOS GESTACION x 310 KG",
+      "cantidad": "351 kg",
+      "fecha_fabricacion": "13/10/2025",
+      "lote": "433513",
+      "castigo": "0%",
+      "aprovechable": "68%",
+      "critico": false
+    },
+    {
+      "codigo": "405921",
+      "descripcion": "N. CERDOS CRECIMIENTO x 372 KG",
+      "cantidad": "21 kg",
+      "fecha_fabricacion": "15/03/2025",
+      "lote": "477559",
+      "castigo": "35%",
+      "aprovechable": "68%",
+      "critico": false
+    },
+    {
+      "codigo": "405570",
+      "descripcion": "N. MASCOTAS CACHORRO x 378 KG",
+      "cantidad": "63 kg",
+      "fecha_fabricacion": "11/04/2025",
+      "lote": "476951",
+      "castigo": "30%",
+      "aprovechable": "68%",
+      "critico": false
+    },
+    {
+      "codigo": "406827",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 232 KG",
+      "cantidad": "170 kg",
+      "fecha_fabricacion": "27/01/2025",
+      "lote": "413507",
+      "castigo": "45%",
+      "aprovechable": "67%",
+      "critico": false
+    },
+    {
+      "codigo": "404860",
+      "descripcion": "N. EQUINOS CRECIMIENTO x 231 KG",
+      "cantidad": "53 kg",
+      "fecha_fabricacion": "09/02/2025",
+      "lote": "476653",
+      "castigo": "40%",
+      "aprovechable": "67%",
+      "critico": false
+    },
+    {
+      "codigo": "407794",
+      "descripcion": "N. GANADO CRECIMIENTO x 433 KG",
+      "cantidad": "287 kg",
+      "fecha_fabricacion": "06/07/2025",
+      "lote": "443167",
+      "castigo": "15%",
+      "aprovechable": "67%",
+      "critico": false
+    },
+    {
+      "codigo": "401196",
+      "descripcion": "N. PISCICULTURA REPRODUCCION x 144 KG",
+      "cantidad": "40 kg",
+      "fecha_fabricacion": "11/08/2025",
+      "lote": "424122",
+      "castigo": "10%",
+      "aprovechable": "67%",
+      "critico": false
+    },
+    {
+      "codigo": "408048",
+      "descripcion": "N. REPRODUCTORAS CRECIMIENTO x 445 KG",
+      "cantidad": "279 kg",
+      "fecha_fabricacion": "26/08/2025",
+      "lote": "466280",
+      "castigo": "10%",
+      "aprovechable": "67%",
+      "critico": false
+    },
+    {
+      "codigo": "407331",
+      "descripcion": "N. GANADO MANTENIMIENTO x 243 KG",
+      "cantidad": "51 kg",
+      "fecha_fabricacion": "10/06/2025",
+      "lote": "473175",
+      "castigo": "20%",
+      "aprovechable": "66%",
+      "critico": true
+    },
+    {
+      "codigo": "403958",
+      "descripcion": "N. MASCOTAS ADULTO x 138 KG",
+      "cantidad": "230 kg",
+      "fecha_fabricacion": "28/05/2025",
+      "lote": "449504",
+      "castigo": "25%",
+      "aprovechable": "66%",
+      "critico": false
+    },
+    {
+      "codigo": "409084",
+      "descripcion": "N. EQUINOS MANTENIMIENTO x 177 KG",
+      "cantidad": "341 kg",
+      "fecha_fabricacion": "22/11/2025",
+      "lote": "454512",
+      "castigo": "0%",
+      "aprovechable": "66%",
+      "critico": false
+    },
+    {
+      "codigo": "409874",
+      "descripcion": "N. PONEDORAS POSTURA x 120 KG",
+      "cantidad": "25 kg",
+      "fecha_fabricacion": "12/05/2025",
+      "lote": "464975",
+      "castigo": "25%",
+      "aprovechable": "65%",
+      "critico": false
+    },
+    {
+      "codigo": "406883",
+      "descripcion": "N. MASCOTAS CACHORRO x 211 KG",
+      "cantidad": "234 kg",
+      "fecha_fabricacion": "06/04/2025",
+      "lote": "485145",
+      "castigo": "30%",
+      "aprovechable": "65%",
+      "critico": false
+    },
+    {
+      "codigo": "406192",
+      "descripcion": "N. EQUINOS MANTENIMIENTO x 324 KG",
+      "cantidad": "173 kg",
+      "fecha_fabricacion": "13/03/2025",
+      "lote": "458396",
+      "castigo": "35%",
+      "aprovechable": "65%",
+      "critico": false
+    },
+    {
+      "codigo": "405292",
+      "descripcion": "N. PONEDORAS INICIO x 179 KG",
+      "cantidad": "154 kg",
+      "fecha_fabricacion": "03/01/2025",
+      "lote": "480140",
+      "castigo": "45%",
+      "aprovechable": "65%",
+      "critico": true
+    },
+    {
+      "codigo": "407528",
+      "descripcion": "N. GANADO PRODUCCION x 283 KG",
+      "cantidad": "326 kg",
+      "fecha_fabricacion": "23/07/2025",
+      "lote": "458089",
+      "castigo": "15%",
+      "aprovechable": "65%",
+      "critico": false
+    },
+    {
+      "codigo": "409450",
+      "descripcion": "N. POLLOS ENGORDE x 185 KG",
+      "cantidad": "379 kg",
+      "fecha_fabricacion": "11/11/2025",
+      "lote": "495940",
+      "castigo": "0%",
+      "aprovechable": "65%",
+      "critico": false
+    },
+    {
+      "codigo": "406723",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 224 KG",
+      "cantidad": "27 kg",
+      "fecha_fabricacion": "20/03/2025",
+      "lote": "456013",
+      "castigo": "35%",
+      "aprovechable": "64%",
+      "critico": false
+    },
+    {
+      "codigo": "406403",
+      "descripcion": "N. POLLOS INICIO x 270 KG",
+      "cantidad": "433 kg",
+      "fecha_fabricacion": "15/02/2025",
+      "lote": "476042",
+      "castigo": "40%",
+      "aprovechable": "64%",
+      "critico": true
+    },
+    {
+      "codigo": "408033",
+      "descripcion": "N. CERDOS GESTACION x 333 KG",
+      "cantidad": "179 kg",
+      "fecha_fabricacion": "22/09/2025",
+      "lote": "424684",
+      "castigo": "5%",
+      "aprovechable": "64%",
+      "critico": false
+    },
+    {
+      "codigo": "405610",
+      "descripcion": "N. REPRODUCTORAS INICIO x 496 KG",
+      "cantidad": "426 kg",
+      "fecha_fabricacion": "24/10/2025",
+      "lote": "484121",
+      "castigo": "0%",
+      "aprovechable": "64%",
+      "critico": false
+    },
+    {
+      "codigo": "409746",
+      "descripcion": "N. PISCICULTURA ALEVINES x 453 KG",
+      "cantidad": "275 kg",
+      "fecha_fabricacion": "09/04/2025",
+      "lote": "472145",
+      "castigo": "30%",
+      "aprovechable": "64%",
+      "critico": false
+    },
+    {
+      "codigo": "401849",
+      "descripcion": "N. POLLOS INICIO x 89 KG",
+      "cantidad": "452 kg",
+      "fecha_fabricacion": "04/11/2025",
+      "lote": "488083",
+      "castigo": "0%",
+      "aprovechable": "63%",
+      "critico": false
+    },
+    {
+      "codigo": "409925",
+      "descripcion": "N. CERDOS GESTACION x 329 KG",
+      "cantidad": "55 kg",
+      "fecha_fabricacion": "06/08/2025",
+      "lote": "488157",
+      "castigo": "10%",
+      "aprovechable": "63%",
+      "critico": false
+    },
+    {
+      "codigo": "408476",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 87 KG",
+      "cantidad": "156 kg",
+      "fecha_fabricacion": "12/09/2025",
+      "lote": "457893",
+      "castigo": "5%",
+      "aprovechable": "63%",
+      "critico": false
+    },
+    {
+      "codigo": "401955",
+      "descripcion": "N. POLLOS ENGORDE x 403 KG",
+      "cantidad": "296 kg",
+      "fecha_fabricacion": "11/03/2025",
+      "lote": "498597",
+      "castigo": "35%",
+      "aprovechable": "62%",
+      "critico": false
+    },
+    {
+      "codigo": "409482",
+      "descripcion": "N. PONEDORAS POSTURA x 178 KG",
+      "cantidad": "407 kg",
+      "fecha_fabricacion": "16/04/2025",
+      "lote": "477717",
+      "castigo": "30%",
+      "aprovechable": "62%",
+      "critico": false
+    },
+    {
+      "codigo": "402030",
+      "descripcion": "N. REPRODUCTORAS PRODUCCION x 345 KG",
+      "cantidad": "382 kg",
+      "fecha_fabricacion": "09/05/2025",
+      "lote": "477591",
+      "castigo": "25%",
+      "aprovechable": "62%",
+      "critico": false
+    },
+    {
+      "codigo": "406347",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 426 KG",
+      "cantidad": "251 kg",
+      "fecha_fabricacion": "26/08/2025",
+      "lote": "499780",
+      "castigo": "10%",
+      "aprovechable": "62%",
+      "critico": false
+    },
+    {
+      "codigo": "404078",
+      "descripcion": "N. GANADO PRODUCCION x 196 KG",
+      "cantidad": "164 kg",
+      "fecha_fabricacion": "03/05/2025",
+      "lote": "415660",
+      "castigo": "25%",
+      "aprovechable": "62%",
+      "critico": false
+    },
+    {
+      "codigo": "406032",
+      "descripcion": "N. EQUINOS MANTENIMIENTO x 168 KG",
+      "cantidad": "225 kg",
+      "fecha_fabricacion": "18/12/2025",
+      "lote": "456836",
+      "castigo": "0%",
+      "aprovechable": "62%",
+      "critico": false
+    },
+    {
+      "codigo": "409699",
+      "descripcion": "N. PONEDORAS PRODUCCION x 89 KG",
+      "cantidad": "193 kg",
+      "fecha_fabricacion": "07/01/2025",
+      "lote": "438237",
+      "castigo": "45%",
+      "aprovechable": "61%",
+      "critico": false
+    },
+    {
+      "codigo": "405449",
+      "descripcion": "N. EQUINOS MANTENIMIENTO x 27 KG",
+      "cantidad": "221 kg",
+      "fecha_fabricacion": "16/10/2025",
+      "lote": "452984",
+      "castigo": "0%",
+      "aprovechable": "61%",
+      "critico": false
+    },
+    {
+      "codigo": "403335",
+      "descripcion": "N. PONEDORAS POSTURA x 367 KG",
+      "cantidad": "370 kg",
+      "fecha_fabricacion": "18/09/2025",
+      "lote": "414117",
+      "castigo": "5%",
+      "aprovechable": "61%",
+      "critico": false
+    },
+    {
+      "codigo": "409856",
+      "descripcion": "N. POLLOS INICIO x 70 KG",
+      "cantidad": "238 kg",
+      "fecha_fabricacion": "06/03/2025",
+      "lote": "436395",
+      "castigo": "35%",
+      "aprovechable": "61%",
+      "critico": false
+    },
+    {
+      "codigo": "404920",
+      "descripcion": "N. REPRODUCTORAS INICIO x 444 KG",
+      "cantidad": "332 kg",
+      "fecha_fabricacion": "15/10/2025",
+      "lote": "482077",
+      "castigo": "0%",
+      "aprovechable": "61%",
+      "critico": false
+    },
+    {
+      "codigo": "406012",
+      "descripcion": "N. POLLOS LEVANTE x 255 KG",
+      "cantidad": "85 kg",
+      "fecha_fabricacion": "04/07/2025",
+      "lote": "457879",
+      "castigo": "15%",
+      "aprovechable": "60%",
+      "critico": false
+    },
+    {
+      "codigo": "402955",
+      "descripcion": "N. POLLOS ENGORDE x 68 KG",
+      "cantidad": "465 kg",
+      "fecha_fabricacion": "25/05/2025",
+      "lote": "439874",
+      "castigo": "25%",
+      "aprovechable": "60%",
+      "critico": true
+    },
+    {
+      "codigo": "404557",
+      "descripcion": "N. POLLOS INICIO x 320 KG",
+      "cantidad": "277 kg",
+      "fecha_fabricacion": "18/12/2025",
+      "lote": "448022",
+      "castigo": "0%",
+      "aprovechable": "60%",
+      "critico": false
+    },
+    {
+      "codigo": "407466",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 152 KG",
+      "cantidad": "454 kg",
+      "fecha_fabricacion": "08/10/2025",
+      "lote": "429352",
+      "castigo": "0%",
+      "aprovechable": "59%",
+      "critico": false
+    },
+    {
+      "codigo": "405112",
+      "descripcion": "N. PISCICULTURA ENGORDE x 424 KG",
+      "cantidad": "416 kg",
+      "fecha_fabricacion": "03/06/2025",
+      "lote": "428248",
+      "castigo": "20%",
+      "aprovechable": "59%",
+      "critico": false
+    },
+    {
+      "codigo": "408541",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 134 KG",
+      "cantidad": "156 kg",
+      "fecha_fabricacion": "18/02/2025",
+      "lote": "423802",
+      "castigo": "40%",
+      "aprovechable": "59%",
+      "critico": false
+    },
+    {
+      "codigo": "402716",
+      "descripcion": "N. REPRODUCTORAS INICIO x 163 KG",
+      "cantidad": "454 kg",
+      "fecha_fabricacion": "08/12/2025",
+      "lote": "415370",
+      "castigo": "0%",
+      "aprovechable": "59%",
+      "critico": false
+    },
+    {
+      "codigo": "405995",
+      "descripcion": "N. GANADO CRECIMIENTO x 106 KG",
+      "cantidad": "161 kg",
+      "fecha_fabricacion": "18/11/2025",
+      "lote": "492186",
+      "castigo": "0%",
+      "aprovechable": "58%",
+      "critico": false
+    },
+    {
+      "codigo": "403266",
+      "descripcion": "N. EQUINOS CRECIMIENTO x 53 KG",
+      "cantidad": "20 kg",
+      "fecha_fabricacion": "15/07/2025",
+      "lote": "463572",
+      "castigo": "15%",
+      "aprovechable": "58%",
+      "critico": false
+    },
+    {
+      "codigo": "409346",
+      "descripcion": "N. POLLOS INICIO x 356 KG",
+      "cantidad": "479 kg",
+      "fecha_fabricacion": "17/09/2025",
+      "lote": "465941",
+      "castigo": "5%",
+      "aprovechable": "58%",
+      "critico": false
+    },
+    {
+      "codigo": "405211",
+      "descripcion": "N. PONEDORAS POSTURA x 67 KG",
+      "cantidad": "463 kg",
+      "fecha_fabricacion": "19/10/2025",
+      "lote": "415837",
+      "castigo": "0%",
+      "aprovechable": "57%",
+      "critico": false
+    },
+    {
+      "codigo": "401857",
+      "descripcion": "N. GANADO PRODUCCION x 466 KG",
+      "cantidad": "283 kg",
+      "fecha_fabricacion": "05/09/2025",
+      "lote": "453870",
+      "castigo": "5%",
+      "aprovechable": "57%",
+      "critico": false
+    },
+    {
+      "codigo": "405665",
+      "descripcion": "N. MASCOTAS SENIOR x 444 KG",
+      "cantidad": "325 kg",
+      "fecha_fabricacion": "03/01/2025",
+      "lote": "445293",
+      "castigo": "45%",
+      "aprovechable": "56%",
+      "critico": false
+    },
+    {
+      "codigo": "408978",
+      "descripcion": "N. CERDOS MACHOS x 29 KG",
+      "cantidad": "448 kg",
+      "fecha_fabricacion": "10/10/2025",
+      "lote": "458822",
+      "castigo": "0%",
+      "aprovechable": "56%",
+      "critico": false
+    },
+    {
+      "codigo": "407125",
+      "descripcion": "N. POLLOS ENGORDE x 384 KG",
+      "cantidad": "389 kg",
+      "fecha_fabricacion": "24/02/2025",
+      "lote": "498872",
+      "castigo": "40%",
+      "aprovechable": "56%",
+      "critico": false
+    },
+    {
+      "codigo": "408832",
+      "descripcion": "N. POLLOS ENGORDE x 163 KG",
+      "cantidad": "336 kg",
+      "fecha_fabricacion": "26/04/2025",
+      "lote": "489003",
+      "castigo": "30%",
+      "aprovechable": "56%",
+      "critico": true
+    },
+    {
+      "codigo": "403240",
+      "descripcion": "N. REPRODUCTORAS CRECIMIENTO x 187 KG",
+      "cantidad": "100 kg",
+      "fecha_fabricacion": "17/11/2025",
+      "lote": "443327",
+      "castigo": "0%",
+      "aprovechable": "55%",
+      "critico": false
+    },
+    {
+      "codigo": "403874",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 394 KG",
+      "cantidad": "100 kg",
+      "fecha_fabricacion": "21/03/2025",
+      "lote": "458451",
+      "castigo": "35%",
+      "aprovechable": "55%",
+      "critico": false
+    },
+    {
+      "codigo": "407785",
+      "descripcion": "N. GANADO PRODUCCION x 426 KG",
+      "cantidad": "284 kg",
+      "fecha_fabricacion": "17/03/2025",
+      "lote": "442540",
+      "castigo": "35%",
+      "aprovechable": "55%",
+      "critico": false
+    },
+    {
+      "codigo": "409191",
+      "descripcion": "N. REPRODUCTORAS INICIO x 91 KG",
+      "cantidad": "153 kg",
+      "fecha_fabricacion": "03/07/2025",
+      "lote": "420379",
+      "castigo": "15%",
+      "aprovechable": "54%",
+      "critico": false
+    },
+    {
+      "codigo": "408174",
+      "descripcion": "N. PONEDORAS INICIO x 424 KG",
+      "cantidad": "230 kg",
+      "fecha_fabricacion": "07/02/2025",
+      "lote": "484528",
+      "castigo": "40%",
+      "aprovechable": "54%",
+      "critico": false
+    },
+    {
+      "codigo": "406439",
+      "descripcion": "N. CERDOS MACHOS x 299 KG",
+      "cantidad": "439 kg",
+      "fecha_fabricacion": "10/05/2025",
+      "lote": "425735",
+      "castigo": "25%",
+      "aprovechable": "53%",
+      "critico": false
+    },
+    {
+      "codigo": "407474",
+      "descripcion": "N. EQUINOS CRECIMIENTO x 274 KG",
+      "cantidad": "397 kg",
+      "fecha_fabricacion": "04/11/2025",
+      "lote": "430827",
+      "castigo": "0%",
+      "aprovechable": "52%",
+      "critico": true
+    },
+    {
+      "codigo": "402575",
+      "descripcion": "N. GANADO MANTENIMIENTO x 36 KG",
+      "cantidad": "216 kg",
+      "fecha_fabricacion": "17/09/2025",
+      "lote": "456775",
+      "castigo": "5%",
+      "aprovechable": "52%",
+      "critico": false
+    },
+    {
+      "codigo": "403244",
+      "descripcion": "N. OTRAS ESPECIES ESPECIAL x 129 KG",
+      "cantidad": "220 kg",
+      "fecha_fabricacion": "17/05/2025",
+      "lote": "418621",
+      "castigo": "25%",
+      "aprovechable": "51%",
+      "critico": true
+    },
+    {
+      "codigo": "404972",
+      "descripcion": "N. CERDOS CRECIMIENTO x 83 KG",
+      "cantidad": "60 kg",
+      "fecha_fabricacion": "10/06/2025",
+      "lote": "454373",
+      "castigo": "20%",
+      "aprovechable": "51%",
+      "critico": false
+    },
+    {
+      "codigo": "404837",
+      "descripcion": "N. POLLOS INICIO x 475 KG",
+      "cantidad": "309 kg",
+      "fecha_fabricacion": "09/07/2025",
+      "lote": "492037",
+      "castigo": "15%",
+      "aprovechable": "51%",
+      "critico": false
+    },
+    {
+      "codigo": "401675",
+      "descripcion": "N. EQUINOS TRABAJO x 153 KG",
+      "cantidad": "73 kg",
+      "fecha_fabricacion": "18/12/2025",
+      "lote": "484862",
+      "castigo": "0%",
+      "aprovechable": "50%",
+      "critico": false
+    },
+    {
+      "codigo": "402929",
+      "descripcion": "N. GANADO CRECIMIENTO x 254 KG",
+      "cantidad": "485 kg",
+      "fecha_fabricacion": "17/06/2025",
+      "lote": "424424",
+      "castigo": "20%",
+      "aprovechable": "50%",
+      "critico": false
+    }
+  ]
+}
